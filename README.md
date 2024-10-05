@@ -5,7 +5,7 @@
 - ⚡ I like swimming, hiking, and all kinds of ball games and outdoor activities
 -  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:realzjca@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jiacheng-zhao-670500270/)
-   ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrome)](https://asdic4.github.io/)
+   ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrome)]()
 
 [![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASDIC4&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
