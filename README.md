@@ -3,8 +3,8 @@
 - 🌱 I'm currently a graduate student specializing in Computer Science at UVic
 - 🔭 I'm actively looking for co-op/internship opportunities in Canada.
 - ⚡ I like swimming, hiking, and all kinds of ball games and outdoor activities
-- 📫 Email: https://www.linkedin.com/in/jiacheng-zhao-670500270/
-- 💼 Linkedin: www.linkedin.com/in/jia-lu-371505204
+- 📫 Email: 
+- 💼 Linkedin: [click to linkedin](https://www.linkedin.com/in/jiacheng-zhao-670500270/)
 - 🎞️ Personal Website: https://asdic4.github.io/
   
 
