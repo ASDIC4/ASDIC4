@@ -8,9 +8,9 @@
 - 🎞️ Personal Website: https://asdic4.github.io/
   
 
-[![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudJ1603&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASDIC4&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudJ1603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASDIC4layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ASDIC4/ASDIC4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
