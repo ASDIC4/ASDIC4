@@ -3,9 +3,9 @@
 - 🌱 I'm currently a graduate student specializing in Computer Science at UVic
 - 🔭 I'm actively looking for co-op/internship opportunities in Canada.
 - ⚡ I like swimming, hiking, and all kinds of ball games and outdoor activities
- Email  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:realzjca@gmail.com)
- Linkedin  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jiacheng-zhao-670500270/)
- Website [![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrome)](https://asdic4.github.io/)
+-  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:realzjca@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jiacheng-zhao-670500270/)
+   ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrome)](https://asdic4.github.io/)
 - 📫
 - 💼
 - 🎞️
