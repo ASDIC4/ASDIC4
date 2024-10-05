@@ -1,8 +1,8 @@
 ## Hi there I am Jiacheng (Jason) Zhao👋
 
-- 🌱 I'm currently a graduate student specializing in Computer Science at UVic
-- 🔭 I'm actively looking for co-op/internship opportunities in Canada.
-- ⚡ I like swimming, hiking, and all kinds of ball games and outdoor activities
+- 🌱 Currently a graduate student specializing in Computer Science at UVic
+- 🔭 Actively looking for co-op/internship opportunities in Canada.
+- ⚡ Swimming, hiking, and all kinds of ball games and outdoor activities
 -  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:realzjca@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jiacheng-zhao-670500270/)
    ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrome)
