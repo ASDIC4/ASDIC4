@@ -3,9 +3,9 @@
 - 🌱 I'm currently a graduate student specializing in Computer Science at UVic
 - 🔭 I'm actively looking for co-op/internship opportunities in Canada.
 - ⚡ I like swimming, hiking, and all kinds of ball games and outdoor activities
-- 📫 Email: 
+- 📫 Email: [realzjca@gmail.com](mailto:realzjca@gmail.com)
 - 💼 Linkedin: [click to linkedin](https://www.linkedin.com/in/jiacheng-zhao-670500270/)
-- 🎞️ Personal Website: https://asdic4.github.io/
+- 🎞️ Personal Website: [click to personal website](https://asdic4.github.io/)
   
 
 [![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASDIC4&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
