@@ -1,4 +1,4 @@
-## Hi there I am Jiacheng (Jason) Zhao👋
+## Hi there I am Jiacheng Zhao👋
 
 - 🌱 Currently a graduate student specializing in Computer Science at UVic
 - 🔭 Actively looking for co-op/internship opportunities in Canada.
